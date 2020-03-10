@@ -1,0 +1,3 @@
+Algorithm : SHA256
+Hash      : 0B96B979ED4A852B0BFAC4E08C0138BCA289D96A738ED5B0E61A0EDB8507DC04
+Path      : C:\Users\Administrator\BMOOS_Config\localhost.mof
