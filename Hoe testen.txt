@@ -1,3 +1,7 @@
-Via website :
+Hoe testen we de hash van een file?
 
-onlinemd5.com
+   1. Ga naar de website onlinemd5.com
+   2. Drag en drop de te testen file naar de aangegeven locatie op de website
+   3. Kopieer de gekende hash in het veld 'Compare with'
+   4. Klik op 'Compare' en kijk of beide overeenkomen
+ 
